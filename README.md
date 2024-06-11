@@ -1,0 +1,2 @@
+# IntervalWebCache
+Cache HTTP Responses
