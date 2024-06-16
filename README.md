@@ -1,4 +1,4 @@
-## IWC - Interval Web Cache
+## IWC - Interval Web Cache (for [AutoRAY](https://github.com/iWebbIO/AUTORAY))
 
 **IWC** (Interval Web Cache) is a Python Flask application designed to cache v2Ray subscriptions and HTTP responses at specified intervals. It offers a convenient way to store and retrieve frequently accessed data, improving performance and reducing unnecessary requests.
 
